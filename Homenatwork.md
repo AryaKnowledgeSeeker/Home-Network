@@ -22,7 +22,7 @@ The physical topology represents how devices are physically connected.
 ## 🔗 Logical Topology
 
 The logical topology shows how data flows in the network.
-
+![Network Diagram]()
 ---
 
 ## 📍 IP Addressing Scheme
