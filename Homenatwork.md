@@ -8,6 +8,7 @@ This document provides a detailed overview of my home network, including physica
 ## 🌐 Physical Topology
 
 The physical topology represents how devices are physically connected.
+![Network Diagram]()
 
 ### Devices:
 - ISP Modem (provided by ISP)
